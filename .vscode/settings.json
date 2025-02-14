@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "spi_flash_sfud.h": "c",
+        "drv_spi.h": "c",
+        "board.h": "c",
+        "rtdevice.h": "c",
+        "rtc.h": "c",
+        "time.h": "c",
+        "rtconfig.h": "c",
+        "rtthread.h": "c",
+        "rthw.h": "c",
+        "mmcsd_core.h": "c",
+        "sd.h": "c",
+        "sdcard.h": "c",
+        "drv_sdio.h": "c"
+    },
+}
